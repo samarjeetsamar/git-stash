@@ -1,1 +1,3 @@
 added feature in latestfeature.txt
+
+added some more feature 
